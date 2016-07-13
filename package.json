@@ -1,5 +1,5 @@
 {
-  "name": "baidupush",
+  "name": "urlbaidupush",
   "version": "1.0.0",
   "description": "push url to baidu",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "url",
     "push"
   ],
-  "author": "fe178.com",
+  "author": "fe178",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/imstone/baiduurlpush/issues"
