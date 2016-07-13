@@ -1,0 +1,27 @@
+{
+  "name": "baidupush",
+  "version": "1.0.0",
+  "description": "push url to baidu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "~4.13.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imstone/baiduurlpush.git"
+  },
+  "keywords": [
+    "baidu",
+    "url",
+    "push"
+  ],
+  "author": "fe178.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imstone/baiduurlpush/issues"
+  },
+  "homepage": "https://github.com/imstone/baiduurlpush#readme"
+}
