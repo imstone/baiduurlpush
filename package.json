@@ -1,6 +1,6 @@
 {
   "name": "urlbaidupush",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "push url to baidu",
   "main": "index.js",
   "scripts": {
